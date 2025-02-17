@@ -69,4 +69,4 @@ getAllVisits(null, {
 });
 
 
-module.exports = { getAllVisits };
+module.exports = { getAllVisits, getVisitors, getVisits};
